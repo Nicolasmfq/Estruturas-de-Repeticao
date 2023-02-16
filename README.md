@@ -11,7 +11,7 @@
 - Tabuada.
 - Fatorial.
 
-#🖇Arrays🖇
+# 🖇Arrays🖇
 
 ### 🚨Exercícios:🚨
 - Ordem Inversa.
