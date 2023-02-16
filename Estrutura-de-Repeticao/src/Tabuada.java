@@ -15,7 +15,7 @@ public class Tabuada {
         System.out.println("Tabuada de: " + tabuada);
 
         for(int x = 1; x <= 10; x++){
-            System.out.println(tabuada + " x " + x + " = " + tabuada*x);
+            System.out.println(tabuada + " x " + x + " = " + tabuada * x);
         }
     }
     
