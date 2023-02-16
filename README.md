@@ -3,7 +3,7 @@
 
 ## For - While - Do While
 
-# 🚨Exercícios:🚨
+### 🚨Exercícios:🚨
 - Nome e Idade.
 - Nota.
 - Maior e Média.
@@ -11,9 +11,9 @@
 - Tabuada.
 - Fatorial.
 
-## 🖇Arrays🖇
+#🖇Arrays🖇
 
-# 🚨Exercícios:🚨
+### 🚨Exercícios:🚨
 - Ordem Inversa.
 - Consoantes.
 - Números Aleatórios.
