@@ -7,7 +7,7 @@ public class Tabuada {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int tabuada;
+        int tabuada = 0;
         
         System.out.println("Tabuada: ");
         tabuada = scan.nextInt();
