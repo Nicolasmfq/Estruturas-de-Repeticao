@@ -10,3 +10,11 @@
 - Par e Impar.
 - Tabuada.
 - Fatorial.
+
+## 🖇Arrays🖇
+
+# 🚨Exercícios:🚨
+- Ordem Inversa.
+- Consoantes.
+- Números Aleatórios.
+- Array Multidimensional.
