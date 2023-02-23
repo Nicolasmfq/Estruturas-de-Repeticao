@@ -17,4 +17,3 @@
 - Ordem Inversa.
 - Consoantes.
 - Números Aleatórios.
-- Array Multidimensional.
